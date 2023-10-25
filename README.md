@@ -1,7 +1,7 @@
 # WeatherApp
 This is my hosted link.-  https://archanaajha.github.io/WeatherApp/
 work with HTML, CSS, and JavaScript to create a functional web application that interacts with an external API to provide real-time weather information
-Here's a step-by-step explanation of how to approach this project:
+Here's a step-by-step explanation 
 
 1.Project Overview:
 
